@@ -1,0 +1,243 @@
+[
+    {
+        "id": 1,
+        "name": "Fairy Tales Collection",
+        "title": "A collection of timeless fairy tales for children.",
+        "price": 0,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Free"
+    },
+    {
+        "id": 2,
+        "name": "Adventures of Tom Sawyer",
+        "title": "The exciting adventures of Tom Sawyer and his friends.",
+        "price": 0,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Free"
+    },
+    {
+        "id": 3,
+        "name": "The Jungle Book",
+        "title": "Follow Mowgli's adventures in the jungle.",
+        "price": 0,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Free"
+    },
+    {
+        "id": 4,
+        "name": "Treasure Island",
+        "title": "A thrilling tale of pirates and hidden treasures.",
+        "price": 0,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Free"
+    },
+    {
+        "id": 5,
+        "name": "Alice's Adventures in Wonderland",
+        "title": "Alice's whimsical journey through a magical world.",
+        "price": 0,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Free"
+    },
+    {
+        "id": 6,
+        "name": "Robin Hood",
+        "title": "The legendary tales of the heroic outlaw, Robin Hood.",
+        "price": 0,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Free"
+    },
+    {
+        "id": 7,
+        "name": "The Secret Garden",
+        "title": "A heartwarming story of friendship and discovery.",
+        "price": 0,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Free"
+    },
+    {
+        "id": 8,
+        "name": "Peter Pan",
+        "title": "The boy who never grew up and his adventures in Neverland.",
+        "price": 0,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Free"
+    },
+    {
+        "id": 9,
+        "name": "The Little Prince",
+        "title": "A philosophical tale of a prince and his cosmic journey.",
+        "price": 0,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Free"
+    },
+    {
+        "id": 10,
+        "name": "Charlie and the Chocolate Factory",
+        "title": "A magical story of a boy and a chocolate factory.",
+        "price": 10,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": 11,
+        "name": "The Lion, the Witch and the Wardrobe",
+        "title": "A story of magical adventures in a land called Narnia.",
+        "price": 15,
+        "image": "https://www.shutterstock.com/shutterstock/photos/2493354727/display_1500/stock-photo-adult-learning-education-concept-a-woman-is-reaching-for-a-book-on-a-library-shelf-the-library-is-2493354727.jpg",
+        "category": "Paid"
+    },
+    {
+        "id": 12,
+        "name": "The Hobbit",
+        "title": "Bilbo Baggins and the unexpected adventure.",
+        "price": 12,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": 13,
+        "name": "Alice's Adventures in Wonderland",
+        "title": "The whimsical adventures of Alice in a strange land.",
+        "price": 20,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": 14,
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "title": "The first magical adventure of Harry Potter.",
+        "price": 25,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": 15,
+        "name": "The Great Gatsby",
+        "title": "A tragic story of love, wealth, and the American Dream.",
+        "price": 18,
+        "image": "https://www.shutterstock.com/shutterstock/photos/2493354727/display_1500/stock-photo-adult-learning-education-concept-a-woman-is-reaching-for-a-book-on-a-library-shelf-the-library-is-2493354727.jpg",
+
+        "category": "Paid"
+    },
+    {
+        "id": 16,
+        "name": "Pride and Prejudice",
+        "title": "A romantic story about Elizabeth Bennet and Mr. Darcy.",
+        "price": 22,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": 17,
+        "name": "The Catcher in the Rye",
+        "title": "The story of a young man lost in the chaos of life.",
+        "price": 17,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": 18,
+        "name": "To Kill a Mockingbird",
+        "title": "A powerful story of racial injustice in the Deep South.",
+        "price": 19,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": 19,
+        "name": "1984",
+        "title": "A dystopian novel about surveillance and government control.",
+        "price": 14,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": 20,
+        "name": "The Adventures of Sherlock Holmes",
+        "title": "Sherlock Holmes's detective stories.",
+        "price": 16,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": 21,
+        "name": "The Odyssey",
+        "title": "An epic tale of Odysseus's journey home.",
+        "price": 30,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": 22,
+        "name": "The Brothers Karamazov",
+        "title": "A profound novel exploring the lives of the Karamazov brothers.",
+        "price": 23,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": 23,
+        "name": "Moby Dick",
+        "title": "The classic tale of a sailor's obsession with a white whale.",
+        "price": 28,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": 24,
+        "name": "War and Peace",
+        "title": "A sweeping novel of Russia during the Napoleonic wars.",
+        "price": 35,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": 25,
+        "name": "Crime and Punishment",
+        "title": "A psychological drama about guilt, redemption, and justice.",
+        "price": 27,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": 26,
+        "name": "The Picture of Dorian Gray",
+        "title": "A novel about vanity, morality, and the pursuit of pleasure.",
+        "price": 21,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": 27,
+        "name": "Dracula",
+        "title": "The classic horror novel about Count Dracula and his thirst for blood.",
+        "price": 18,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": 28,
+        "name": "Frankenstein",
+        "title": "A tragic novel about ambition, revenge, and a scientist's creation.",
+        "price": 24,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": 29,
+        "name": "The Grapes of Wrath",
+        "title": "A powerful story of family and survival during the Great Depression.",
+        "price": 26,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": 30,
+        "name": "Brave New World",
+        "title": "A dystopian vision of the future.",
+        "price": 29,
+        "image": "https://img.freepik.com/free-vector/modern-book-logo-collection_23-2148827427.jpg?t=st=1733630825~exp=1733634425~hmac=8270ca718d457bb6058ea23ab8487fedf179b321dea888f1d0520bff4a391062&w=740",
+        "category": "Paid"
+    }
+]
